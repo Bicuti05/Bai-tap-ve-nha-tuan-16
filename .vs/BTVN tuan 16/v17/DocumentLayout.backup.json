@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\test\\BTVN tuan 16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{264E3F91-B563-4B5E-9739-4F7D386B6A36}|BTVN tuan 16.vcxproj|D:\\test\\BTVN tuan 16\\BTVN tuan 16.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{264E3F91-B563-4B5E-9739-4F7D386B6A36}|BTVN tuan 16.vcxproj|solutionrelative:BTVN tuan 16.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BTVN tuan 16.cpp",
+              "DocumentMoniker": "D:\\test\\BTVN tuan 16\\BTVN tuan 16.cpp",
+              "RelativeDocumentMoniker": "BTVN tuan 16.cpp",
+              "ToolTip": "D:\\test\\BTVN tuan 16\\BTVN tuan 16.cpp*",
+              "RelativeToolTip": "BTVN tuan 16.cpp*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwDQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-21T16:57:48.702Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
